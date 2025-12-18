@@ -6,7 +6,7 @@
 
 A menu bar tool that warns you before your Mac crashes from memory exhaustion.
 
-![Memory Guardian Screenshot](assets/screenshot.png)
+![Memory Guardian Screenshot](assets/screenshot.jpg)
 
 ## The Problem
 
@@ -114,7 +114,7 @@ MIT — see [LICENSE](LICENSE)
 ## Credits
 
 - Built with [SwiftBar](https://github.com/swiftbar/SwiftBar)
-- Inspired by losing too much work to kernel panics 😅
+- Inspired by losing too much work to kernel panics
 
 ## Related
 
